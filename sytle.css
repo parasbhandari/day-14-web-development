@@ -48,6 +48,7 @@
     width:90%;
     margin:auto;
     margin-bottom: 40px;
+    justify-content: space-evenly;
 }
 .destination {
     margin:0 20px;
@@ -76,4 +77,8 @@
     color:rgb(59,65,64);
     font-size:40px;
     margin: 24px 0;
+}
+#highlight{
+    padding:24px;
+    background:linear-gradient(45deg, rgb(227,255,253),rgb(202,243,240));
 }
