@@ -1,0 +1,5 @@
+//This 100 days of web development course is amazing and good to go with it.
+I learned many things about web development and create a basic website with the help of 
+html and css. 
+Now it's turn to jump into javascript 
+---------------Let's go---------------------
